@@ -69,6 +69,18 @@ body,ul,li,a,h1,h2,h3.h4,h5,h6{
 .ring-item img {
 	width: 100%;
   }
+  .ring-content {
+	text-align: center;
+	background: #e89c9c;
+	padding: 12px 0;
+}
+.oder-button {
+	background: yellow;
+	width: 120px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 7px 20px;
+}
   .subcribe {
 	border: 1px solid #000;
 	width: 85%;
